@@ -8,6 +8,14 @@
  <br/>
  <br/>
   
+####  :wave: My Profile Link
+  
+  <a href="https://www.notion.so/d1feed120b1b4997811ae56452fd30b8"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"></a>&nbsp
+
+  
+ <br/>
+ <br/>
+  
 ####  :clipboard: Once I've Used 
   
  <br/>

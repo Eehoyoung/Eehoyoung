@@ -10,7 +10,7 @@
   
 ####  :wave: My Profile Link
   
-  <a href="[https://www.notion.so/d1feed120b1b4997811ae56452fd30b8](https://stupendous-whistle-126.notion.site/d1feed120b1b4997811ae56452fd30b8)"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+  <a href="https://stupendous-whistle-126.notion.site/d1feed120b1b4997811ae56452fd30b8"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
   <a href="https://velog.io/@c65621"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 
   
